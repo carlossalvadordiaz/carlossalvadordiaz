@@ -44,7 +44,7 @@
 
 
 
-| <img src="/images/mobile.png" style="width:120px;height:80px;">  |   |
+| <img src="/images/mobile.png" style="width:120px; height:80px;">  |   |
 |---|---|
 |   |   |
 
