@@ -11,7 +11,7 @@
 
 
 
-| ![ScreenShot](https://raw.github.com/carlossalvadordiaz/carlossalvadordiaz/master/images/mobile.png)  |   |
+| ![ScreenShot](https://raw.github.com/carlossalvadordiaz/carlossalvadordiaz/master/images/mobile.png =150x150)  |   |
 |---|---|
 |   |   |
 
