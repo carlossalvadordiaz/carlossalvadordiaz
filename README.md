@@ -1,5 +1,5 @@
 ### Mi nombre es Carlos Salvador 👋
-#### Desarrollador web junior full-stack 💻 actualmente en búsqueda activa de empleo♨️
+#### Desarrollador web junior full-stack 💻 actualmente en **búsqueda activa** de empleo♨️
 
 
 
@@ -41,22 +41,22 @@
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="65" height="65"/>  </a>
   </p>
 
-| nombre  | nombre  | nombre  |
-|---|---|---|
-| parrafo  | parrafo  | parrafo  |
-
 #### Algunos de mis proyectos:
 
+<!-- imagenes para la tabla:
+<a href="https://github.com/carlossalvadordiaz/404-not-found" target="_blank"> <img src="/images/mobile.png" width="120" height="120"/></a>   -->
 
-
-|<a href="https://github.com/carlossalvadordiaz/404-not-found" target="_blank"> <img src="/images/mobile.png" width="80" height="120"/></a>  |   |
-|---|---|
-|   |   |
+|  _frontEnd_             |
+|:-:|:-:|:-:|:-:|
+|   |   |   |   |
 
 
 
 
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=carlossalvadordiaz&show_icons=true&locale=en&layout=compact" alt="carlossalvadordiaz" /></p>
+
+
+#### ¿Quieres hablar?
 
 
