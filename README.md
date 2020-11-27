@@ -46,10 +46,10 @@
 <!-- imagenes para la tabla:
 <a href="https://github.com/carlossalvadordiaz/404-not-found" target="_blank"> <img src="/images/mobile.png" width="120" height="120"/></a>   -->
 
-|  _frontEnd_             |
-|:-:|:-:|:-:|:-:|
-|   |   |   |   |
 
+|      _frontEnd_       |
+|---|---|---|---|
+|   |   |   |   |
 
 
 
