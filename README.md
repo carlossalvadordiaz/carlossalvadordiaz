@@ -49,7 +49,7 @@
 
 
 
-| <img src="/images/mobile.png" width= "80"; height="120"/>  |   |
+| <img src="/images/mobile.png" width="80" height="120"/>  |   |
 |---|---|
 |   |   |
 
