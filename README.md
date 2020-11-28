@@ -50,7 +50,7 @@
 
 | notFoundResponsive  | rockPaperScissors  | toDoSimple  |
 |---|---|---|
-| <a href="https://github.com/carlossalvadordiaz/404-not-found" target="_blank"> <img src="/images/mobile.png" width="120" height="120"/></a> |  <a href="https://codepen.io/carlossalvadordiaz/pen/bGeXeGq" target="_blank"> <img src="/images/rps.png" width="120" height="120"/></a> | <a href="https://codepen.io/carlossalvadordiaz/pen/PozMmdq" target="_blank"> <img src="/images/toDo.png" width="120" height="120"/></a>  |
+| <a href="https://github.com/carlossalvadordiaz/404-not-found" target="_blank"> <img src="/images/mobile.png" width="180" height="180"/></a> |  <a href="https://codepen.io/carlossalvadordiaz/pen/bGeXeGq" target="_blank"> <img src="/images/rps.png" width="180" height="180"/></a> | <a href="https://codepen.io/carlossalvadordiaz/pen/PozMmdq" target="_blank"> <img src="/images/toDo.png" width="180" height="180"/></a>  |
 
 
 
