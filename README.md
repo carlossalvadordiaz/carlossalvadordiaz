@@ -5,9 +5,10 @@
 
 #### Actualmente me dedico a:
 
-- Reforzar conocimientos sobre el stack tecnológico MEAN
-- Realizar proyectos personales 
-- Afianzar principios, patrones buenas prácticas y metodologías de desarrollo
+- Reforzar conocimientos sobre el stack tecnológico MEAN y nuevas tecnologías
+- Realizar proyectos personales [duoTracker fullStack](https://github.com/carlossalvadordiaz/duotracker-frontend)
+- Afianzar e investigar principios, patrones buenas prácticas y metodologías de desarrollo
+- Aportar semanalmente 3-4 mini-proyectos en github y codepen.
 
 #### Tengo conocimientos sobre:
 
@@ -44,12 +45,13 @@
 #### Algunos de mis proyectos:
 
 <!-- imagenes para la tabla:
-<a href="https://github.com/carlossalvadordiaz/404-not-found" target="_blank"> <img src="/images/mobile.png" width="120" height="120"/></a>   -->
+<a href="https://codepen.io/carlossalvadordiaz/pen/PozMmdq" target="_blank"> <img src="/images/toDo.png" width="120" height="120"/></a>   -->
 
 
-|      _frontEnd_       |
-|---|---|---|---|
-|   |   |   |   |
+| notFoundResponsive  | rockPaperScissors  | toDoSimple  |
+|---|---|---|
+| <a href="https://github.com/carlossalvadordiaz/404-not-found" target="_blank"> <img src="/images/mobile.png" width="120" height="120"/></a> |  <a href="https://codepen.io/carlossalvadordiaz/pen/bGeXeGq" target="_blank"> <img src="/images/rps.png" width="120" height="120"/></a> | <!-- imagenes para la tabla:
+<a href="https://codepen.io/carlossalvadordiaz/pen/PozMmdq" target="_blank"> <img src="/images/toDo.png" width="120" height="120"/></a>   -->  |
 
 
 
@@ -57,6 +59,12 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=carlossalvadordiaz&show_icons=true&locale=en&layout=compact" alt="carlossalvadordiaz" /></p>
 
 
-#### ¿Quieres hablar?
+#### ¿Hablamos?
+
+<p align="left">
+<a href="https://codepen.io/https://codepen.io/carlossalvadordiaz" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="https://codepen.io/carlossalvadordiaz" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/carlos-salvador-513a7b122/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="carlos salvador díaz" height="30" width="40" /></a>
+</p>
+
 
 
