@@ -6,7 +6,7 @@
 #### Actualmente me dedico a:
 
 - Reforzar conocimientos sobre el stack tecnológico MEAN y nuevas tecnologías
-- Realizar un proyecto full stack (MEAN) 👉🏻 [duoTracker fullStack](https://github.com/carlossalvadordiaz/duotracker-frontend)
+- Colaborar en un proyecto full stack 👉🏻 [duoTracker fullStack](https://github.com/carlossalvadordiaz/duotracker-frontend)
 - Afianzar e investigar principios, patrones buenas prácticas y metodologías de desarrollo
 - Aportar semanalmente 3-4 mini-proyectos en github/codepen.
 ___
